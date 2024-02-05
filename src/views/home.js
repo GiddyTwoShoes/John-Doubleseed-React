@@ -40,7 +40,6 @@ const Home = (props) => {
                 Contact Me
               </a>
             </nav>
-            <div className="home-buttons"></div>
           </div>
           <div data-thq="thq-burger-menu" className="home-burger-menu">
             <svg viewBox="0 0 1024 1024" className="home-icon">
@@ -64,7 +63,7 @@ const Home = (props) => {
                 <span className="home-nav41">Portfolio</span>
                 <span className="home-nav52">Testimonials</span>
               </nav>
-              <div className="home-buttons1">
+              <div className="home-buttons">
                 <button className="home-login button">Login</button>
                 <button className="home-register button">Register</button>
               </div>

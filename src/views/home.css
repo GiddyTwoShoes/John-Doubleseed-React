@@ -94,13 +94,6 @@
 .home-nav51:hover {
   color: #3d6e70ff;
 }
-.home-buttons {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-}
 .home-burger-menu {
   display: none;
 }
@@ -177,7 +170,7 @@
   color: var(--dl-color-gray-black);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-buttons1 {
+.home-buttons {
   display: flex;
   margin-top: var(--dl-space-space-unit);
   align-items: center;
