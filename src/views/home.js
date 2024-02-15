@@ -5,7 +5,6 @@ import { Helmet } from 'react-helmet'
 
 import BlogPostCard4 from '../components/blog-post-card4'
 import BlogPostCard3 from '../components/blog-post-card3'
-import BlogPostCard21 from '../components/blog-post-card21'
 import TestimonialCard3 from '../components/testimonial-card3'
 import TestimonialCard31 from '../components/testimonial-card31'
 import TestimonialCard311 from '../components/testimonial-card311'
@@ -506,11 +505,6 @@ const Home = (props) => {
                 className="home-component1"
               ></BlogPostCard3>
             </Link>
-            <BlogPostCard21
-              profileSrc="https://images.unsplash.com/photo-1611232658409-0d98127f237f?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIzfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTYyNjQ1MDU4MQ&amp;ixlib=rb-1.2.1&amp;h=1200"
-              rootClassName="rootClassName3"
-              className="home-component2"
-            ></BlogPostCard21>
           </div>
         </div>
       </div>
