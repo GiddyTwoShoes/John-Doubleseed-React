@@ -15,8 +15,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>John Doubleseed</title>
-        <meta property="og:title" content="John Doubleseed" />
+        <title>John Doublewood</title>
+        <meta property="og:title" content="John Doublewood" />
       </Helmet>
       <div className="home-header">
         <header data-thq="thq-navbar" className="home-navbar-interactive">

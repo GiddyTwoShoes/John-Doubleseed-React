@@ -9,8 +9,8 @@ const ArticlePage1 = (props) => {
   return (
     <div className="article-page1-container">
       <Helmet>
-        <title>ArticlePage1 - John Doubleseed</title>
-        <meta property="og:title" content="ArticlePage1 - John Doubleseed" />
+        <title>ArticlePage1 - John Doublewood</title>
+        <meta property="og:title" content="ArticlePage1 - John Doublewood" />
       </Helmet>
       <header
         data-thq="thq-navbar"
