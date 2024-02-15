@@ -824,22 +824,6 @@
   font-family: "Raleway";
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-container13 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-twounits);
-  flex-direction: column;
-  justify-content: space-between;
-}
-.home-container14 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-twounits);
-  flex-direction: column;
-  justify-content: space-between;
-}
 .home-navlink {
   display: contents;
 }
@@ -851,9 +835,6 @@
 }
 .home-component1 {
   text-decoration: none;
-}
-.home-navlink2 {
-  display: contents;
 }
 .home-component2 {
   text-decoration: none;
@@ -878,7 +859,7 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-container15 {
+.home-container13 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -909,7 +890,7 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-container16 {
+.home-container14 {
   flex: 0 0 auto;
   width: 100%;
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -957,7 +938,7 @@
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: space-between;
 }
-.home-container17 {
+.home-container15 {
   gap: var(--dl-space-space-oneandhalfunits);
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
@@ -1025,7 +1006,7 @@
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-container18 {
+.home-container16 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -1109,7 +1090,7 @@
   .home-text111 {
     text-align: center;
   }
-  .home-container15 {
+  .home-container13 {
     flex-direction: column;
   }
   .home-text113 {
@@ -1274,7 +1255,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container18 {
+  .home-container16 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
@@ -1372,7 +1353,7 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .home-container16 {
+  .home-container14 {
     align-items: center;
     flex-direction: column;
   }
@@ -1383,7 +1364,7 @@
     margin-top: var(--dl-space-space-oneandhalfunits);
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container18 {
+  .home-container16 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;

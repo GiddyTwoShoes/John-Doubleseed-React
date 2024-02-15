@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet'
 
 import BlogPostCard4 from '../components/blog-post-card4'
 import BlogPostCard3 from '../components/blog-post-card3'
-import BlogPostCard2 from '../components/blog-post-card2'
+import BlogPostCard21 from '../components/blog-post-card21'
 import TestimonialCard3 from '../components/testimonial-card3'
 import TestimonialCard31 from '../components/testimonial-card31'
 import TestimonialCard311 from '../components/testimonial-card311'
@@ -494,8 +494,6 @@ const Home = (props) => {
               <span>Articles</span>
               <br></br>
             </span>
-            <div className="home-container13"></div>
-            <div className="home-container14"></div>
             <Link to="/article-page1" className="home-navlink">
               <BlogPostCard4
                 rootClassName="blog-post-card4-root-class-name"
@@ -508,13 +506,11 @@ const Home = (props) => {
                 className="home-component1"
               ></BlogPostCard3>
             </Link>
-            <Link to="/article-page3" className="home-navlink2">
-              <BlogPostCard2
-                profileSrc="https://images.unsplash.com/photo-1611232658409-0d98127f237f?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIzfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTYyNjQ1MDU4MQ&amp;ixlib=rb-1.2.1&amp;h=1200"
-                rootClassName="rootClassName3"
-                className="home-component2"
-              ></BlogPostCard2>
-            </Link>
+            <BlogPostCard21
+              profileSrc="https://images.unsplash.com/photo-1611232658409-0d98127f237f?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIzfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTYyNjQ1MDU4MQ&amp;ixlib=rb-1.2.1&amp;h=1200"
+              rootClassName="rootClassName3"
+              className="home-component2"
+            ></BlogPostCard21>
           </div>
         </div>
       </div>
@@ -526,7 +522,7 @@ const Home = (props) => {
           John Doubleseed: A Financial Wizard Who Guides You Through the Market
           Maze
         </span>
-        <div className="home-container15">
+        <div className="home-container13">
           <TestimonialCard3
             name="Lucas Tan"
             pictureAlt="Lucas"
@@ -555,14 +551,14 @@ const Home = (props) => {
           <span>Email: john.doublewood@email.sg</span>
           <br></br>
         </span>
-        <div className="home-container16"></div>
+        <div className="home-container14"></div>
       </div>
       <div className="home-faq">
         <div className="home-faq-container"></div>
       </div>
       <div className="home-footer">
         <footer className="home-footer1">
-          <div className="home-container17">
+          <div className="home-container15">
             <span className="home-logo2">JOHN DOUBLEWOOD</span>
             <nav className="home-nav1 home-nav1">
               <a href="#HomePageTitle" className="home-nav12">
@@ -586,7 +582,7 @@ const Home = (props) => {
             </nav>
           </div>
           <div className="home-separator"></div>
-          <div className="home-container18">
+          <div className="home-container16">
             <span className="home-text123">
               © 2023 JOHN DOUBLEWOOD, All Rights Reserved.
             </span>
