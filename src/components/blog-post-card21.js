@@ -37,30 +37,30 @@ const BlogPostCard21 = (props) => {
 }
 
 BlogPostCard21.defaultProps = {
-  title: 'How I Helped a Company Increase Its Revenue by 25% in One Year',
-  label: 'ENTERPRISE',
   profileSrc: 'df3b55d8-ab02-4bd8-97df-7948ed24aa73',
-  profileAlt: 'profile',
-  imageAlt: 'image',
   rootClassName: '',
   imageSrc: 'b4fef073-c8f6-4da9-af7c-79434ba6a69a',
+  imageAlt: 'image',
+  author: 'John Doublewood',
   description:
     'By assessing, identifying, comparing and projecting, we can project a large revenue by following these steps:',
+  profileAlt: 'profile',
   when: '10 years ago',
-  author: 'John Doublewood',
+  title: 'How I Helped a Company Increase Its Revenue by 25% in One Year',
+  label: 'ENTERPRISE',
 }
 
 BlogPostCard21.propTypes = {
-  title: PropTypes.string,
-  label: PropTypes.string,
   profileSrc: PropTypes.string,
-  profileAlt: PropTypes.string,
-  imageAlt: PropTypes.string,
   rootClassName: PropTypes.string,
   imageSrc: PropTypes.string,
-  description: PropTypes.string,
-  when: PropTypes.string,
+  imageAlt: PropTypes.string,
   author: PropTypes.string,
+  description: PropTypes.string,
+  profileAlt: PropTypes.string,
+  when: PropTypes.string,
+  title: PropTypes.string,
+  label: PropTypes.string,
 }
 
 export default BlogPostCard21
