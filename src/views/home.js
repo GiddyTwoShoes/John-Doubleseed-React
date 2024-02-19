@@ -540,9 +540,9 @@ const Home = (props) => {
           <span>please feel free to reach me via my contacts:</span>
           <br></br>
           <br></br>
-          <span>Phone: +65 9123 4567</span>
+          <span>Phone: +65 8698 0167</span>
           <br></br>
-          <span>Email: john.doublewood@email.sg</span>
+          <span>Email: john.doublewood@outlook.com</span>
           <br></br>
         </span>
         <div className="home-container14"></div>
