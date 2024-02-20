@@ -513,7 +513,7 @@ const Home = (props) => {
           Testimonial
         </h1>
         <span className="home-text111">
-          John Doubleseed: A Financial Wizard Who Guides You Through the Market
+          John Doublewood: A Financial Wizard Who Guides You Through the Market
           Maze
         </span>
         <div className="home-container13">
