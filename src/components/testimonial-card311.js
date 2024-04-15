@@ -36,7 +36,7 @@ TestimonialCard311.defaultProps = {
   descriptionText: 'Senior Financial Analyst, GPMG',
   name: 'Vikram Aditya',
   pictureAlt: 'profile',
-  pictureSrc: '/vikram%20aditya-200h.png',
+  pictureSrc: '/newjohndoublewood/vikram%20aditya-200w.webp',
   quote:
     "His success isn't just measured in returns, it's measured in lives transformed. He celebrates every milestone, big and small, and reminds me that even the occasional market dip is just a temporary blip on the path to long-term success.",
 }

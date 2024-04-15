@@ -16,7 +16,7 @@ const TestimonialCard3 = (props) => {
         <span className="testimonial-card3-text">{props.quote}</span>
         <img
           alt={props.pictureAlt}
-          src="/lucastanweihan-200h.png"
+          src="/newjohndoublewood/lucastan-200w.png"
           className="testimonial-card3-image"
         />
         <span className="testimonial-card3-text1">{props.name}</span>

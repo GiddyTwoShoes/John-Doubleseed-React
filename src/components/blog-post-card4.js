@@ -46,7 +46,7 @@ BlogPostCard4.defaultProps = {
     'Income in the Age of Automation: Building a Sustainable Portfolio with Dividend Stocks',
   when: '3 days ago',
   author: 'John Doublewood',
-  profileSrc: '/john%20doubleseed-200h.jpg',
+  profileSrc: '/newjohndoublewood/2%20edited%202-200w.webp',
   label: 'ENTERPRISE',
 }
 

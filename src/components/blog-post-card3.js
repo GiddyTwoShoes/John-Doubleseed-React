@@ -38,7 +38,7 @@ const BlogPostCard3 = (props) => {
 
 BlogPostCard3.defaultProps = {
   description: 'A simple, practical approach to beating the market',
-  profileSrc: '/john%20doubleseed-200h.jpg',
+  profileSrc: '/newjohndoublewood/2%20edited%202-200w.webp',
   rootClassName: '',
   imageAlt: 'image',
   title: 'Forget the Experts: How I Beat the Market (and You Can Too)',

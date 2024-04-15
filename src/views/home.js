@@ -90,7 +90,7 @@ const Home = (props) => {
             </h1>
             <img
               alt="image"
-              src="/johndoubleseed3-400h.jpg"
+              src="/newjohndoublewood/2%20edited%202-400w.webp"
               className="home-details-image"
             />
             <span className="home-hero-sub-heading">
@@ -123,7 +123,7 @@ const Home = (props) => {
           </div>
           <img
             alt="image"
-            src="/john%20doubleseed-400h.jpg"
+            src="/newjohndoublewood/3%20edited%203-400w.webp"
             className="home-details-image1"
           />
         </div>

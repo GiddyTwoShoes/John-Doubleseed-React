@@ -34,10 +34,10 @@ const TestimonialCard31 = (props) => {
 TestimonialCard31.defaultProps = {
   pictureAlt: 'profile',
   quote:
-    "Investing used to be a scary monster lurking in the shadows, always ready to pounce. Then I met John Doubleseed. He wasn't just a financial analyst, he was a financial Jedi Master, wielding his knowledge like a lightsaber against market uncertainty.",
-  name: 'Robert Dwight',
+    "Investing used to be a scary monster lurking in the shadows, always ready to pounce. Then I met John Doublewood. He wasn't just a financial analyst, he was a financial Jedi Master, wielding his knowledge like a lightsaber against market uncertainty.",
+  name: 'Muhammad Izzan',
   rootClassName: '',
-  pictureSrc: '/robert%20dwight-200h.png',
+  pictureSrc: '/newjohndoublewood/muhammadizzanibinabdulsalim-200w.png',
   descriptionText: 'Client, XYZ Investments',
 }
 
